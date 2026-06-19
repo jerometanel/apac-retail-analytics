@@ -1,12 +1,11 @@
-"""
 Purchase Path Analysis — APAC Retail Client Intelligence
+    
 =========================================================
 Identifies which products to recommend to which client segments
 to maximise upgrade probability and lifetime value.
 
-Author : Jerome Tan
 Dataset: Synthetic APAC retail data (800 clients, 3,053 transactions, 8 markets)
-"""
+
 
 import pandas as pd
 import numpy as np
