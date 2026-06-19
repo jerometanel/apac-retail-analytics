@@ -1,0 +1,801 @@
+customer_id,market,segment,entry_category
+C0001,Macau,VIC,Handbags
+C0002,Australia,New,Accessories
+C0003,Vietnam,Elite,Ready-to-Wear
+C0004,Singapore,Elite,Jewellery
+C0005,Singapore,Elite,Jewellery
+C0006,Hong Kong,Elite,Jewellery
+C0007,Korea,VIC,Accessories
+C0008,Macau,Regular,Fragrance
+C0009,Thailand,Regular,Fragrance
+C0010,Singapore,New,Makeup
+C0011,Korea,New,Makeup
+C0012,Thailand,Regular,Makeup
+C0013,Korea,Regular,Eyewear
+C0014,Hong Kong,New,Fragrance
+C0015,Australia,Regular,Fragrance
+C0016,Australia,Elite,Handbags
+C0017,Macau,Regular,Skincare
+C0018,Australia,Regular,Gifting
+C0019,Macau,Regular,Fragrance
+C0020,Macau,Elite,Ready-to-Wear
+C0021,Thailand,Regular,Makeup
+C0022,Macau,New,Accessories
+C0023,Australia,VIC,Ready-to-Wear
+C0024,China,Elite,Shoes
+C0025,Korea,Regular,Accessories
+C0026,China,New,Makeup
+C0027,China,Elite,Jewellery
+C0028,China,Regular,Eyewear
+C0029,China,Elite,Shoes
+C0030,Hong Kong,Elite,Handbags
+C0031,Singapore,Regular,Accessories
+C0032,China,Elite,Ready-to-Wear
+C0033,Thailand,Regular,Gifting
+C0034,Korea,VIC,Watches
+C0035,Macau,Regular,Skincare
+C0036,Macau,Elite,Ready-to-Wear
+C0037,Hong Kong,New,Eyewear
+C0038,China,Regular,Fragrance
+C0039,Vietnam,New,Skincare
+C0040,Macau,Regular,Fragrance
+C0041,Korea,Regular,Accessories
+C0042,Hong Kong,VIC,Ready-to-Wear
+C0043,Singapore,New,Eyewear
+C0044,Korea,Regular,Fragrance
+C0045,Vietnam,New,Fragrance
+C0046,Hong Kong,Elite,Watches
+C0047,Korea,Elite,Ready-to-Wear
+C0048,Hong Kong,Regular,Eyewear
+C0049,China,Elite,Jewellery
+C0050,Macau,Elite,Ready-to-Wear
+C0051,Thailand,Regular,Skincare
+C0052,Hong Kong,Elite,Handbags
+C0053,China,Regular,Fragrance
+C0054,Australia,Elite,Jewellery
+C0055,Australia,New,Eyewear
+C0056,Singapore,Elite,Jewellery
+C0057,Australia,Elite,Shoes
+C0058,Hong Kong,Regular,Accessories
+C0059,Korea,Elite,Handbags
+C0060,China,Regular,Makeup
+C0061,Macau,Regular,Gifting
+C0062,Singapore,Regular,Skincare
+C0063,Korea,Elite,Handbags
+C0064,Hong Kong,Regular,Skincare
+C0065,China,New,Skincare
+C0066,Korea,Regular,Fragrance
+C0067,Thailand,New,Gifting
+C0068,Vietnam,New,Fragrance
+C0069,Hong Kong,Elite,Ready-to-Wear
+C0070,Singapore,Regular,Gifting
+C0071,China,New,Makeup
+C0072,China,New,Gifting
+C0073,Hong Kong,New,Fragrance
+C0074,China,New,Makeup
+C0075,Hong Kong,New,Fragrance
+C0076,Hong Kong,Regular,Eyewear
+C0077,Australia,New,Fragrance
+C0078,Australia,Regular,Accessories
+C0079,Australia,Elite,Accessories
+C0080,China,Regular,Makeup
+C0081,China,Regular,Makeup
+C0082,Thailand,Elite,Watches
+C0083,Australia,Regular,Accessories
+C0084,China,Regular,Accessories
+C0085,Singapore,Regular,Gifting
+C0086,Thailand,Elite,Handbags
+C0087,China,New,Eyewear
+C0088,Vietnam,Regular,Fragrance
+C0089,Korea,New,Makeup
+C0090,Thailand,Regular,Fragrance
+C0091,Korea,Regular,Accessories
+C0092,Thailand,Elite,Handbags
+C0093,Singapore,Regular,Skincare
+C0094,Hong Kong,New,Fragrance
+C0095,Macau,Regular,Makeup
+C0096,Vietnam,New,Fragrance
+C0097,China,Regular,Fragrance
+C0098,Korea,Regular,Skincare
+C0099,Korea,Regular,Skincare
+C0100,Singapore,Elite,Accessories
+C0101,Vietnam,Regular,Eyewear
+C0102,Hong Kong,Elite,Handbags
+C0103,China,New,Accessories
+C0104,Korea,New,Fragrance
+C0105,China,Elite,Watches
+C0106,Vietnam,Regular,Makeup
+C0107,Australia,New,Eyewear
+C0108,Thailand,New,Eyewear
+C0109,Singapore,New,Skincare
+C0110,Vietnam,New,Eyewear
+C0111,Korea,Regular,Accessories
+C0112,Singapore,New,Eyewear
+C0113,Australia,New,Makeup
+C0114,China,New,Fragrance
+C0115,Singapore,Elite,Ready-to-Wear
+C0116,Korea,New,Skincare
+C0117,Macau,Regular,Gifting
+C0118,Hong Kong,New,Fragrance
+C0119,Thailand,Elite,Shoes
+C0120,China,Elite,Ready-to-Wear
+C0121,Macau,Regular,Makeup
+C0122,Hong Kong,Regular,Makeup
+C0123,China,New,Fragrance
+C0124,Vietnam,Regular,Accessories
+C0125,Korea,Regular,Skincare
+C0126,Singapore,Regular,Skincare
+C0127,China,New,Accessories
+C0128,China,Regular,Skincare
+C0129,China,Regular,Fragrance
+C0130,China,New,Accessories
+C0131,Vietnam,Regular,Skincare
+C0132,Hong Kong,VIC,Handbags
+C0133,China,Regular,Accessories
+C0134,Hong Kong,Regular,Fragrance
+C0135,Hong Kong,New,Accessories
+C0136,Australia,Elite,Jewellery
+C0137,Macau,Regular,Eyewear
+C0138,Korea,Regular,Fragrance
+C0139,Australia,VIC,Handbags
+C0140,Hong Kong,New,Fragrance
+C0141,China,Regular,Fragrance
+C0142,Macau,Regular,Fragrance
+C0143,Macau,VIC,Watches
+C0144,Korea,Elite,Ready-to-Wear
+C0145,Australia,New,Makeup
+C0146,Singapore,Elite,Accessories
+C0147,Hong Kong,New,Accessories
+C0148,Thailand,Regular,Gifting
+C0149,Vietnam,Regular,Accessories
+C0150,Hong Kong,New,Makeup
+C0151,Vietnam,New,Makeup
+C0152,China,Elite,Jewellery
+C0153,Korea,Regular,Makeup
+C0154,China,Elite,Handbags
+C0155,China,Regular,Makeup
+C0156,Australia,Elite,Jewellery
+C0157,Macau,Elite,Ready-to-Wear
+C0158,Hong Kong,Regular,Fragrance
+C0159,China,New,Makeup
+C0160,Macau,New,Accessories
+C0161,China,VIC,Ready-to-Wear
+C0162,Korea,New,Gifting
+C0163,China,New,Makeup
+C0164,Hong Kong,Elite,Handbags
+C0165,China,VIC,Ready-to-Wear
+C0166,Macau,Regular,Fragrance
+C0167,Hong Kong,Elite,Jewellery
+C0168,Singapore,Regular,Makeup
+C0169,Singapore,Regular,Fragrance
+C0170,Hong Kong,Elite,Ready-to-Wear
+C0171,Australia,Regular,Accessories
+C0172,China,New,Eyewear
+C0173,China,Elite,Handbags
+C0174,Hong Kong,New,Skincare
+C0175,Macau,New,Accessories
+C0176,Korea,New,Fragrance
+C0177,Singapore,Elite,Handbags
+C0178,Macau,Regular,Fragrance
+C0179,Macau,New,Fragrance
+C0180,Hong Kong,New,Fragrance
+C0181,Korea,New,Fragrance
+C0182,Singapore,Regular,Accessories
+C0183,Thailand,Regular,Accessories
+C0184,Singapore,Regular,Makeup
+C0185,Singapore,New,Eyewear
+C0186,Hong Kong,Elite,Shoes
+C0187,Korea,Regular,Skincare
+C0188,China,Regular,Skincare
+C0189,Korea,New,Fragrance
+C0190,Thailand,Regular,Eyewear
+C0191,Macau,Regular,Accessories
+C0192,Thailand,Regular,Eyewear
+C0193,Hong Kong,Regular,Skincare
+C0194,Macau,Regular,Eyewear
+C0195,Korea,Elite,Accessories
+C0196,China,Regular,Makeup
+C0197,China,VIC,Accessories
+C0198,Australia,Elite,Watches
+C0199,China,New,Accessories
+C0200,China,VIC,Shoes
+C0201,Singapore,New,Makeup
+C0202,Korea,Regular,Makeup
+C0203,Hong Kong,New,Fragrance
+C0204,Australia,Regular,Skincare
+C0205,Hong Kong,Regular,Makeup
+C0206,China,New,Skincare
+C0207,Macau,Regular,Skincare
+C0208,Singapore,Elite,Handbags
+C0209,Hong Kong,New,Fragrance
+C0210,Australia,Regular,Accessories
+C0211,Thailand,Regular,Skincare
+C0212,Singapore,Elite,Handbags
+C0213,Australia,VIC,Jewellery
+C0214,China,New,Makeup
+C0215,Macau,Elite,Accessories
+C0216,Hong Kong,New,Makeup
+C0217,Hong Kong,Regular,Fragrance
+C0218,Singapore,New,Makeup
+C0219,Korea,Regular,Fragrance
+C0220,Macau,Elite,Handbags
+C0221,Hong Kong,Regular,Gifting
+C0222,Singapore,New,Makeup
+C0223,Korea,Elite,Jewellery
+C0224,Hong Kong,Regular,Eyewear
+C0225,Thailand,Regular,Makeup
+C0226,Hong Kong,New,Gifting
+C0227,Australia,Elite,Jewellery
+C0228,Australia,Elite,Handbags
+C0229,Singapore,Regular,Makeup
+C0230,China,Elite,Watches
+C0231,Macau,Regular,Accessories
+C0232,Vietnam,New,Makeup
+C0233,Macau,New,Skincare
+C0234,Hong Kong,Regular,Gifting
+C0235,Korea,Elite,Handbags
+C0236,China,New,Makeup
+C0237,China,Elite,Jewellery
+C0238,Macau,New,Makeup
+C0239,Hong Kong,Elite,Handbags
+C0240,China,Regular,Skincare
+C0241,Singapore,New,Eyewear
+C0242,Hong Kong,New,Gifting
+C0243,Macau,Regular,Fragrance
+C0244,Korea,Regular,Accessories
+C0245,Vietnam,Elite,Jewellery
+C0246,Macau,Regular,Fragrance
+C0247,China,Regular,Accessories
+C0248,Korea,Regular,Accessories
+C0249,China,New,Eyewear
+C0250,Hong Kong,Regular,Skincare
+C0251,China,New,Skincare
+C0252,Hong Kong,New,Accessories
+C0253,Hong Kong,Regular,Fragrance
+C0254,China,New,Makeup
+C0255,Korea,Elite,Jewellery
+C0256,Vietnam,Regular,Accessories
+C0257,Singapore,New,Makeup
+C0258,Australia,Elite,Jewellery
+C0259,Hong Kong,Elite,Shoes
+C0260,Vietnam,Regular,Fragrance
+C0261,Korea,Regular,Accessories
+C0262,Hong Kong,Regular,Eyewear
+C0263,Thailand,Elite,Jewellery
+C0264,China,New,Makeup
+C0265,Vietnam,New,Skincare
+C0266,Korea,Regular,Gifting
+C0267,Hong Kong,New,Skincare
+C0268,China,Regular,Gifting
+C0269,Hong Kong,Elite,Jewellery
+C0270,China,Regular,Makeup
+C0271,Hong Kong,Regular,Fragrance
+C0272,Macau,Regular,Fragrance
+C0273,Korea,VIC,Watches
+C0274,Macau,New,Skincare
+C0275,Macau,New,Gifting
+C0276,Hong Kong,VIC,Jewellery
+C0277,Hong Kong,New,Eyewear
+C0278,China,Regular,Makeup
+C0279,Macau,Regular,Accessories
+C0280,Australia,Regular,Gifting
+C0281,China,Regular,Makeup
+C0282,Korea,New,Eyewear
+C0283,China,Regular,Accessories
+C0284,Korea,New,Fragrance
+C0285,Singapore,Regular,Gifting
+C0286,Thailand,New,Skincare
+C0287,Singapore,Regular,Eyewear
+C0288,China,Regular,Gifting
+C0289,Singapore,New,Skincare
+C0290,China,Elite,Jewellery
+C0291,Hong Kong,New,Fragrance
+C0292,Singapore,New,Makeup
+C0293,China,New,Fragrance
+C0294,Hong Kong,Regular,Skincare
+C0295,Singapore,New,Gifting
+C0296,Macau,Elite,Ready-to-Wear
+C0297,China,Regular,Makeup
+C0298,China,Regular,Eyewear
+C0299,Australia,Regular,Makeup
+C0300,Australia,Regular,Makeup
+C0301,Thailand,Regular,Gifting
+C0302,Macau,Regular,Makeup
+C0303,Macau,New,Fragrance
+C0304,Hong Kong,Regular,Gifting
+C0305,China,New,Makeup
+C0306,China,Regular,Makeup
+C0307,Macau,New,Accessories
+C0308,Korea,Regular,Gifting
+C0309,Macau,Regular,Skincare
+C0310,Hong Kong,New,Fragrance
+C0311,China,New,Fragrance
+C0312,Singapore,Regular,Gifting
+C0313,Hong Kong,New,Eyewear
+C0314,China,New,Makeup
+C0315,Korea,New,Skincare
+C0316,Singapore,New,Fragrance
+C0317,Thailand,New,Accessories
+C0318,Thailand,New,Eyewear
+C0319,China,New,Fragrance
+C0320,Hong Kong,Regular,Accessories
+C0321,Macau,Regular,Eyewear
+C0322,Thailand,Elite,Handbags
+C0323,Singapore,New,Makeup
+C0324,Vietnam,Elite,Handbags
+C0325,Korea,New,Skincare
+C0326,China,Elite,Shoes
+C0327,China,Regular,Fragrance
+C0328,Vietnam,Elite,Ready-to-Wear
+C0329,Macau,New,Gifting
+C0330,China,New,Fragrance
+C0331,China,Elite,Ready-to-Wear
+C0332,China,New,Fragrance
+C0333,China,Regular,Gifting
+C0334,Korea,Elite,Jewellery
+C0335,Hong Kong,New,Skincare
+C0336,China,Elite,Handbags
+C0337,Korea,Regular,Accessories
+C0338,Macau,Regular,Fragrance
+C0339,Korea,Elite,Handbags
+C0340,Hong Kong,Elite,Watches
+C0341,Australia,Elite,Accessories
+C0342,China,Elite,Shoes
+C0343,Singapore,New,Fragrance
+C0344,Singapore,Regular,Fragrance
+C0345,Macau,VIC,Handbags
+C0346,Korea,Elite,Ready-to-Wear
+C0347,Australia,Elite,Watches
+C0348,Hong Kong,New,Makeup
+C0349,Korea,Regular,Fragrance
+C0350,Hong Kong,New,Fragrance
+C0351,Korea,New,Makeup
+C0352,Hong Kong,New,Fragrance
+C0353,Hong Kong,Regular,Accessories
+C0354,Hong Kong,New,Fragrance
+C0355,Singapore,Regular,Fragrance
+C0356,China,Regular,Makeup
+C0357,China,New,Makeup
+C0358,Hong Kong,Regular,Fragrance
+C0359,Macau,New,Accessories
+C0360,Korea,New,Fragrance
+C0361,Hong Kong,Elite,Ready-to-Wear
+C0362,Hong Kong,Regular,Fragrance
+C0363,China,Regular,Skincare
+C0364,Australia,New,Fragrance
+C0365,Korea,Elite,Handbags
+C0366,Macau,New,Makeup
+C0367,Hong Kong,Regular,Skincare
+C0368,Singapore,Regular,Accessories
+C0369,Korea,New,Accessories
+C0370,Thailand,Regular,Skincare
+C0371,Hong Kong,Elite,Jewellery
+C0372,Australia,Elite,Accessories
+C0373,China,New,Makeup
+C0374,Korea,New,Gifting
+C0375,Korea,Regular,Makeup
+C0376,Singapore,New,Eyewear
+C0377,China,Elite,Watches
+C0378,China,Regular,Fragrance
+C0379,Korea,Regular,Skincare
+C0380,Australia,Regular,Fragrance
+C0381,Korea,Elite,Ready-to-Wear
+C0382,China,Regular,Accessories
+C0383,Korea,Regular,Fragrance
+C0384,Singapore,Elite,Jewellery
+C0385,Macau,Regular,Accessories
+C0386,Hong Kong,Regular,Skincare
+C0387,Korea,Elite,Ready-to-Wear
+C0388,China,Regular,Makeup
+C0389,Macau,VIC,Ready-to-Wear
+C0390,Hong Kong,VIC,Ready-to-Wear
+C0391,Australia,Elite,Handbags
+C0392,China,VIC,Watches
+C0393,Australia,Regular,Accessories
+C0394,Hong Kong,New,Eyewear
+C0395,Singapore,New,Fragrance
+C0396,Singapore,New,Eyewear
+C0397,Hong Kong,Regular,Accessories
+C0398,China,Elite,Handbags
+C0399,China,New,Makeup
+C0400,Korea,New,Fragrance
+C0401,Korea,Elite,Jewellery
+C0402,Hong Kong,Regular,Skincare
+C0403,China,Regular,Fragrance
+C0404,Hong Kong,Elite,Jewellery
+C0405,Vietnam,Regular,Accessories
+C0406,Korea,New,Fragrance
+C0407,Australia,Elite,Jewellery
+C0408,Korea,Regular,Fragrance
+C0409,Korea,Regular,Accessories
+C0410,Korea,Regular,Gifting
+C0411,Hong Kong,Regular,Makeup
+C0412,Korea,Regular,Fragrance
+C0413,Singapore,Regular,Skincare
+C0414,China,Elite,Jewellery
+C0415,China,Regular,Fragrance
+C0416,Korea,Elite,Accessories
+C0417,Korea,Regular,Makeup
+C0418,Hong Kong,Regular,Accessories
+C0419,Vietnam,Regular,Eyewear
+C0420,Macau,Regular,Makeup
+C0421,Australia,Elite,Handbags
+C0422,Vietnam,Regular,Accessories
+C0423,Hong Kong,Elite,Handbags
+C0424,China,Regular,Makeup
+C0425,Australia,Regular,Skincare
+C0426,China,Regular,Makeup
+C0427,Korea,Regular,Fragrance
+C0428,Singapore,Regular,Skincare
+C0429,Macau,Regular,Gifting
+C0430,Korea,Regular,Makeup
+C0431,Australia,Regular,Gifting
+C0432,Macau,Regular,Makeup
+C0433,Thailand,Regular,Skincare
+C0434,Korea,New,Accessories
+C0435,Korea,New,Accessories
+C0436,Hong Kong,Regular,Skincare
+C0437,China,Regular,Fragrance
+C0438,Australia,New,Makeup
+C0439,Australia,Elite,Handbags
+C0440,Korea,Elite,Watches
+C0441,Korea,New,Fragrance
+C0442,China,New,Fragrance
+C0443,China,Elite,Accessories
+C0444,Korea,New,Fragrance
+C0445,China,Regular,Accessories
+C0446,Australia,Regular,Skincare
+C0447,Korea,Regular,Makeup
+C0448,China,New,Makeup
+C0449,Korea,Regular,Gifting
+C0450,Thailand,Regular,Skincare
+C0451,China,Regular,Gifting
+C0452,Korea,New,Fragrance
+C0453,China,Regular,Eyewear
+C0454,Hong Kong,Elite,Accessories
+C0455,Korea,Regular,Accessories
+C0456,China,New,Fragrance
+C0457,China,New,Fragrance
+C0458,Hong Kong,Regular,Fragrance
+C0459,Singapore,Regular,Fragrance
+C0460,Thailand,Regular,Fragrance
+C0461,Vietnam,New,Makeup
+C0462,Korea,Elite,Handbags
+C0463,Korea,Regular,Fragrance
+C0464,Macau,Regular,Fragrance
+C0465,Singapore,Regular,Eyewear
+C0466,Hong Kong,New,Makeup
+C0467,Singapore,Regular,Skincare
+C0468,Singapore,Regular,Accessories
+C0469,Hong Kong,Elite,Shoes
+C0470,Hong Kong,VIC,Jewellery
+C0471,China,Elite,Ready-to-Wear
+C0472,Hong Kong,Elite,Ready-to-Wear
+C0473,Macau,Elite,Shoes
+C0474,Singapore,Regular,Makeup
+C0475,Thailand,Regular,Skincare
+C0476,Hong Kong,Regular,Gifting
+C0477,China,VIC,Watches
+C0478,China,New,Makeup
+C0479,Korea,New,Skincare
+C0480,Singapore,Regular,Eyewear
+C0481,Australia,New,Makeup
+C0482,Macau,Regular,Eyewear
+C0483,Singapore,New,Makeup
+C0484,China,VIC,Handbags
+C0485,Singapore,New,Makeup
+C0486,Thailand,Regular,Skincare
+C0487,Korea,Elite,Ready-to-Wear
+C0488,Korea,New,Skincare
+C0489,Singapore,Regular,Eyewear
+C0490,Korea,New,Skincare
+C0491,Thailand,Regular,Makeup
+C0492,Vietnam,Regular,Eyewear
+C0493,Macau,Elite,Jewellery
+C0494,Korea,Regular,Skincare
+C0495,Singapore,Regular,Skincare
+C0496,Hong Kong,Regular,Accessories
+C0497,China,VIC,Accessories
+C0498,China,New,Skincare
+C0499,Thailand,New,Fragrance
+C0500,Macau,Regular,Eyewear
+C0501,Macau,New,Fragrance
+C0502,Hong Kong,New,Fragrance
+C0503,Singapore,New,Skincare
+C0504,China,Regular,Makeup
+C0505,Macau,New,Skincare
+C0506,Korea,Regular,Makeup
+C0507,China,Regular,Fragrance
+C0508,Singapore,New,Makeup
+C0509,China,Regular,Skincare
+C0510,China,Regular,Gifting
+C0511,China,New,Makeup
+C0512,Singapore,New,Makeup
+C0513,Vietnam,Regular,Fragrance
+C0514,Macau,New,Skincare
+C0515,China,Elite,Jewellery
+C0516,Vietnam,New,Accessories
+C0517,Vietnam,Regular,Accessories
+C0518,Hong Kong,Elite,Handbags
+C0519,Australia,New,Fragrance
+C0520,Hong Kong,Regular,Eyewear
+C0521,Hong Kong,Regular,Fragrance
+C0522,China,New,Accessories
+C0523,Hong Kong,New,Eyewear
+C0524,Singapore,New,Makeup
+C0525,Hong Kong,Regular,Skincare
+C0526,Vietnam,New,Makeup
+C0527,Australia,New,Skincare
+C0528,Vietnam,Elite,Handbags
+C0529,Australia,Elite,Ready-to-Wear
+C0530,Macau,Regular,Gifting
+C0531,Vietnam,New,Skincare
+C0532,Macau,Regular,Fragrance
+C0533,China,Regular,Makeup
+C0534,Australia,New,Fragrance
+C0535,Macau,New,Makeup
+C0536,Korea,Regular,Eyewear
+C0537,Singapore,VIC,Jewellery
+C0538,Hong Kong,Regular,Accessories
+C0539,China,Regular,Makeup
+C0540,Macau,Regular,Gifting
+C0541,Hong Kong,New,Accessories
+C0542,China,Elite,Handbags
+C0543,China,Regular,Fragrance
+C0544,Hong Kong,Regular,Accessories
+C0545,Macau,New,Gifting
+C0546,Singapore,Regular,Makeup
+C0547,China,Regular,Skincare
+C0548,China,Elite,Handbags
+C0549,China,Regular,Fragrance
+C0550,Korea,Elite,Ready-to-Wear
+C0551,Hong Kong,Regular,Accessories
+C0552,Hong Kong,Regular,Makeup
+C0553,China,VIC,Shoes
+C0554,Hong Kong,New,Fragrance
+C0555,China,Elite,Ready-to-Wear
+C0556,Vietnam,Regular,Makeup
+C0557,Hong Kong,New,Skincare
+C0558,Vietnam,New,Accessories
+C0559,China,Regular,Makeup
+C0560,Australia,Regular,Fragrance
+C0561,Hong Kong,New,Skincare
+C0562,Thailand,Regular,Fragrance
+C0563,Thailand,Regular,Accessories
+C0564,China,New,Accessories
+C0565,Australia,Regular,Makeup
+C0566,Singapore,Elite,Ready-to-Wear
+C0567,Hong Kong,Regular,Makeup
+C0568,Hong Kong,Regular,Makeup
+C0569,Australia,New,Accessories
+C0570,China,Regular,Eyewear
+C0571,Hong Kong,New,Skincare
+C0572,Korea,Regular,Accessories
+C0573,Thailand,Regular,Accessories
+C0574,Macau,Regular,Fragrance
+C0575,Hong Kong,New,Accessories
+C0576,Korea,Regular,Accessories
+C0577,Hong Kong,Elite,Jewellery
+C0578,Macau,New,Fragrance
+C0579,Macau,VIC,Shoes
+C0580,Singapore,VIC,Ready-to-Wear
+C0581,Australia,Regular,Skincare
+C0582,Korea,New,Eyewear
+C0583,Macau,Elite,Handbags
+C0584,Australia,Regular,Accessories
+C0585,Hong Kong,Regular,Fragrance
+C0586,Vietnam,Regular,Skincare
+C0587,Korea,New,Makeup
+C0588,Macau,Regular,Fragrance
+C0589,China,Regular,Fragrance
+C0590,Thailand,Regular,Skincare
+C0591,Australia,New,Skincare
+C0592,China,New,Accessories
+C0593,China,Elite,Jewellery
+C0594,China,New,Eyewear
+C0595,Thailand,New,Skincare
+C0596,China,New,Skincare
+C0597,China,Regular,Makeup
+C0598,Australia,Regular,Gifting
+C0599,Macau,Elite,Jewellery
+C0600,Hong Kong,Elite,Jewellery
+C0601,Hong Kong,Regular,Fragrance
+C0602,China,New,Fragrance
+C0603,Korea,VIC,Jewellery
+C0604,Vietnam,Regular,Gifting
+C0605,Vietnam,Regular,Fragrance
+C0606,Thailand,Regular,Makeup
+C0607,Vietnam,Elite,Jewellery
+C0608,Hong Kong,New,Gifting
+C0609,Vietnam,Elite,Accessories
+C0610,Australia,New,Gifting
+C0611,China,Regular,Gifting
+C0612,Thailand,New,Eyewear
+C0613,Singapore,Regular,Fragrance
+C0614,Thailand,Regular,Gifting
+C0615,Hong Kong,Regular,Gifting
+C0616,Korea,Regular,Fragrance
+C0617,Singapore,Elite,Ready-to-Wear
+C0618,China,Elite,Watches
+C0619,Korea,Regular,Accessories
+C0620,Australia,New,Eyewear
+C0621,Korea,Regular,Fragrance
+C0622,Macau,Elite,Handbags
+C0623,China,Elite,Handbags
+C0624,Australia,New,Gifting
+C0625,China,New,Fragrance
+C0626,Macau,Regular,Fragrance
+C0627,Singapore,Regular,Skincare
+C0628,Hong Kong,New,Accessories
+C0629,China,Elite,Shoes
+C0630,China,Regular,Fragrance
+C0631,Singapore,Elite,Watches
+C0632,Hong Kong,Regular,Makeup
+C0633,Hong Kong,Regular,Accessories
+C0634,Australia,Elite,Watches
+C0635,Korea,Elite,Ready-to-Wear
+C0636,Macau,Elite,Jewellery
+C0637,Singapore,Regular,Makeup
+C0638,Hong Kong,Elite,Ready-to-Wear
+C0639,Hong Kong,Elite,Handbags
+C0640,Hong Kong,Elite,Jewellery
+C0641,Korea,Regular,Makeup
+C0642,Hong Kong,Elite,Ready-to-Wear
+C0643,Korea,New,Skincare
+C0644,Korea,New,Makeup
+C0645,Singapore,Regular,Fragrance
+C0646,Thailand,New,Fragrance
+C0647,Thailand,VIC,Ready-to-Wear
+C0648,Korea,New,Gifting
+C0649,Macau,Regular,Gifting
+C0650,China,New,Gifting
+C0651,China,Regular,Accessories
+C0652,Hong Kong,Regular,Skincare
+C0653,Australia,Regular,Makeup
+C0654,Macau,Elite,Handbags
+C0655,Singapore,Regular,Accessories
+C0656,Hong Kong,Regular,Eyewear
+C0657,China,Regular,Skincare
+C0658,Thailand,New,Fragrance
+C0659,Korea,Regular,Accessories
+C0660,Vietnam,VIC,Handbags
+C0661,Singapore,VIC,Jewellery
+C0662,Macau,VIC,Watches
+C0663,China,Elite,Handbags
+C0664,Korea,Elite,Jewellery
+C0665,China,New,Accessories
+C0666,China,Regular,Accessories
+C0667,China,Regular,Fragrance
+C0668,Macau,Elite,Ready-to-Wear
+C0669,Singapore,New,Eyewear
+C0670,Vietnam,Regular,Skincare
+C0671,Hong Kong,New,Gifting
+C0672,Macau,New,Skincare
+C0673,China,Elite,Ready-to-Wear
+C0674,Korea,Regular,Eyewear
+C0675,China,New,Eyewear
+C0676,Vietnam,Regular,Gifting
+C0677,Hong Kong,Elite,Handbags
+C0678,Australia,Regular,Gifting
+C0679,Korea,Elite,Watches
+C0680,Australia,Regular,Accessories
+C0681,Hong Kong,New,Fragrance
+C0682,Korea,New,Makeup
+C0683,Hong Kong,New,Skincare
+C0684,Thailand,VIC,Shoes
+C0685,Thailand,Elite,Shoes
+C0686,Hong Kong,Elite,Jewellery
+C0687,Australia,New,Makeup
+C0688,Korea,Regular,Makeup
+C0689,China,Regular,Makeup
+C0690,Hong Kong,Elite,Shoes
+C0691,Hong Kong,New,Gifting
+C0692,China,Regular,Makeup
+C0693,Australia,Elite,Handbags
+C0694,Thailand,Regular,Skincare
+C0695,Australia,Regular,Skincare
+C0696,Korea,Regular,Accessories
+C0697,Macau,Regular,Eyewear
+C0698,Thailand,Regular,Makeup
+C0699,Australia,New,Fragrance
+C0700,Macau,Regular,Gifting
+C0701,Hong Kong,Regular,Fragrance
+C0702,Singapore,New,Gifting
+C0703,Macau,New,Skincare
+C0704,Korea,Elite,Watches
+C0705,Singapore,Regular,Skincare
+C0706,Macau,Regular,Makeup
+C0707,Hong Kong,Regular,Fragrance
+C0708,Hong Kong,VIC,Jewellery
+C0709,China,New,Fragrance
+C0710,Korea,Regular,Eyewear
+C0711,Vietnam,Elite,Handbags
+C0712,Australia,Elite,Jewellery
+C0713,Korea,Regular,Skincare
+C0714,China,Regular,Makeup
+C0715,Thailand,Elite,Jewellery
+C0716,Korea,Regular,Eyewear
+C0717,Korea,Elite,Ready-to-Wear
+C0718,Hong Kong,Elite,Handbags
+C0719,Australia,Regular,Skincare
+C0720,Korea,Regular,Eyewear
+C0721,Singapore,Regular,Fragrance
+C0722,Australia,New,Eyewear
+C0723,Hong Kong,VIC,Handbags
+C0724,Vietnam,New,Makeup
+C0725,Singapore,New,Skincare
+C0726,Thailand,Regular,Accessories
+C0727,Macau,Regular,Fragrance
+C0728,Australia,Elite,Accessories
+C0729,China,New,Skincare
+C0730,Korea,Elite,Shoes
+C0731,Macau,Regular,Gifting
+C0732,Singapore,Regular,Eyewear
+C0733,China,New,Gifting
+C0734,China,New,Fragrance
+C0735,China,New,Makeup
+C0736,China,New,Skincare
+C0737,Macau,Regular,Fragrance
+C0738,Macau,New,Accessories
+C0739,Singapore,Elite,Watches
+C0740,Macau,New,Skincare
+C0741,Singapore,VIC,Ready-to-Wear
+C0742,China,Regular,Fragrance
+C0743,Australia,Regular,Makeup
+C0744,China,VIC,Ready-to-Wear
+C0745,Singapore,Regular,Skincare
+C0746,China,Regular,Skincare
+C0747,Singapore,New,Gifting
+C0748,Thailand,Regular,Fragrance
+C0749,China,Elite,Ready-to-Wear
+C0750,Hong Kong,Elite,Ready-to-Wear
+C0751,China,Regular,Fragrance
+C0752,China,Elite,Jewellery
+C0753,Hong Kong,Elite,Handbags
+C0754,China,New,Skincare
+C0755,Macau,New,Skincare
+C0756,China,New,Eyewear
+C0757,Thailand,Elite,Ready-to-Wear
+C0758,Thailand,Elite,Ready-to-Wear
+C0759,Thailand,New,Skincare
+C0760,Macau,Regular,Makeup
+C0761,China,Regular,Eyewear
+C0762,China,Elite,Jewellery
+C0763,Hong Kong,Regular,Accessories
+C0764,Hong Kong,New,Makeup
+C0765,Macau,Regular,Skincare
+C0766,Macau,New,Accessories
+C0767,China,Regular,Makeup
+C0768,China,Regular,Accessories
+C0769,Korea,Elite,Shoes
+C0770,Hong Kong,Regular,Makeup
+C0771,Vietnam,Regular,Makeup
+C0772,Korea,Regular,Eyewear
+C0773,Hong Kong,Regular,Fragrance
+C0774,Korea,Regular,Skincare
+C0775,Macau,VIC,Shoes
+C0776,Macau,Regular,Accessories
+C0777,Thailand,Regular,Fragrance
+C0778,China,Regular,Makeup
+C0779,Hong Kong,Regular,Skincare
+C0780,China,New,Makeup
+C0781,Hong Kong,Regular,Fragrance
+C0782,Singapore,Regular,Gifting
+C0783,Singapore,New,Fragrance
+C0784,China,Regular,Fragrance
+C0785,Hong Kong,Regular,Skincare
+C0786,Macau,Regular,Skincare
+C0787,Korea,Elite,Accessories
+C0788,Macau,Regular,Fragrance
+C0789,Thailand,Elite,Handbags
+C0790,Australia,Regular,Gifting
+C0791,Australia,Regular,Fragrance
+C0792,Macau,Regular,Fragrance
+C0793,Hong Kong,Elite,Jewellery
+C0794,China,New,Fragrance
+C0795,Korea,New,Fragrance
+C0796,Singapore,New,Fragrance
+C0797,China,Regular,Skincare
+C0798,Korea,Regular,Makeup
+C0799,Hong Kong,Regular,Makeup
+C0800,China,New,Makeup
