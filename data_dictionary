@@ -1,4 +1,4 @@
-retail_transactions.csv
+## retail_transactions.csv
 | Column |  Description |
 | order_id | Unique transaction identifier |
 | customer_id | Unique client identifier |
@@ -13,7 +13,7 @@ retail_transactions.csv
 | revenue | Transaction revenue in SGD |
 | entry_category | First category this client ever bought |
 
-customer_profiles.csv
+## customer_profiles.csv
 | Column | Description |
 | customer_id | Unique client identifier |
 | market | Client home market |
