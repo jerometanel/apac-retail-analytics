@@ -1,18 +1,14 @@
 ================================================
 Business Question:
-Which APAC markets generated the highest total
-revenue and order volume over the analysis period?
+Which APAC markets generated the highest total revenue and order volume over the analysis period?
 
 Why this matters:
-Identifies top-performing markets for commercial
-investment and underperforming markets that need
-attention. Used by regional leadership to prioritise
-where to focus sales and activation resources.
+Identifies top-performing markets for commercial investment and underperforming markets that need attention. 
+Used by regional leadership to prioritise where to focus sales and activation resources.
   
 Business Action:
-Markets in the bottom 3 by revenue flagged for
-commercial review. Top market used as benchmark
-for best-practice sharing across the region.
+Markets in the bottom 3 by revenue flagged for commercial review. 
+Top market used as benchmark for best-practice sharing across the region.
 ================================================
 
 SELECT 
