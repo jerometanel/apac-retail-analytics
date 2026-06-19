@@ -17,7 +17,7 @@ APAC retail dataset covering 800 clients, 3,053 transactions,
 |---|---|---|
 | Data preparation | SQL | 5 diagnostic queries |
 | Analysis | Python / pandas | Purchase path study |
-| Visualisation | Power BI / charts | 4-chart dashboard |
+| Visualisation | Power BI / charts | 3 page dashboard |
 | Insights | Written summary | Executive findings |
 
 ---
