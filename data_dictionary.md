@@ -1,5 +1,8 @@
+# Data Dictionary
+
 ## retail_transactions.csv
-| Column |  Description |
+| Column | Description |
+|---|---|
 | order_id | Unique transaction identifier |
 | customer_id | Unique client identifier |
 | market | APAC market (SG, AU, CN, HK, MO, KR, VN, TH) |
@@ -15,6 +18,7 @@
 
 ## customer_profiles.csv
 | Column | Description |
+|---|---|
 | customer_id | Unique client identifier |
 | market | Client home market |
 | segment | Client tier at time of analysis |
