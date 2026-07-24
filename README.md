@@ -3,7 +3,7 @@
 # APAC Retail Analytics Portfolio
 ### Jerome Tan — Business Intelligence & Data Analytics
 
-**4+ years at CHANEL Asia-Pacific | 8 APAC markets | 200+ users**
+**4+ years at CHANEL Asia-Pacific | 8 APAC markets | 500+ users**
 
 ---
 
