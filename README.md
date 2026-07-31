@@ -32,11 +32,11 @@ a Handbag moved to Elite within 6 months.
 
 ## Repository Structure
 
-- customer_profiles.csv / retail_transactions.csv — synthetic retail datasets 
+- customer_profiles.csv, retail_transactions.csv — synthetic retail datasets 
 - data_dictionary.md - data dictionary
 - sql/ — 5 SQL queries with business context comments
-- python/ — purchase path analysis script
-- images/ — visualisation outputs
+- python/ — purchase path analysis script with outputs of graphs
+- dashboard/ - Power BI visualisations 
 - insights/ — key findings in plain business language
 
 ---
