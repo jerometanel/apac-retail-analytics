@@ -3,7 +3,7 @@ Business Question:
 Which product leads each category in revenue performance across APAC? 
 What is the rank of every product within its category?
 
-Why this matters:
+Purpose:
 Identifies hero products that drive disproportionate revenue within each category. 
 Used by commercial and merchandising teams to prioritise stock allocation, boutique training, and client recommendation strategies.
 
@@ -11,7 +11,8 @@ Business Action:
 Top product per category highlighted in client advisor training. 
 Bottom-ranked products reviewed for assortment rationalisation or promotional activation to improve contribution.
 ================================================
-
+QUERY
+    
 WITH product_revenue AS (
     SELECT
         p.category,
@@ -43,6 +44,7 @@ SELECT
 FROM ranked
 WHERE rank_in_category <= 2
 ORDER BY category, rank_in_category;
+
 
  ================================================================
  Top 2 products by revenue within each category
