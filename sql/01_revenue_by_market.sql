@@ -20,3 +20,11 @@ FROM retail_transactions
 GROUP BY market
 HAVING total_revenue > 0
 ORDER BY total_revenue DESC;
+
+
+| Layer | Tool | What I built |
+|---|---|---|
+| Data preparation | SQL | 5 diagnostic queries |
+| Analysis | Python / pandas | Purchase path study |
+| Visualisation | Power BI / charts | 3 page dashboard |
+| Insights | Written summary | Executive findings |
