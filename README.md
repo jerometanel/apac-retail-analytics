@@ -32,7 +32,8 @@ a Handbag moved to Elite within 6 months.
 
 ## Repository Structure
 
-- customer_profiles.csv / retail_transactions.csv / data_dictionary.md — synthetic retail datasets + data dictionary
+- customer_profiles.csv / retail_transactions.csv — synthetic retail datasets 
+- data_dictionary.md - data dictionary
 - sql/ — 5 SQL queries with business context comments
 - python/ — purchase path analysis script
 - images/ — visualisation outputs
