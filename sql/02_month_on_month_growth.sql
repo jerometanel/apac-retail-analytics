@@ -45,6 +45,7 @@ SELECT
 FROM with_lag
 ORDER BY market, year_month;
 
+    
  ================================================================
  Sample Australia — monthly revenue, 2023 vs 2024
  ----------------------------------------------------------------
